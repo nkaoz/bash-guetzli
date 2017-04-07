@@ -1,1 +1,1 @@
-# bash-guetzli
+# sbguetzli
